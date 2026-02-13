@@ -52,11 +52,11 @@ cd sysbeat
 
 자세한 사용 방법과 옵션 설명은 아래 문서를 참고하세요.
 
-👉 Full Usage Documentation
+👉 [Full Usage Documentation](docs/USAGE.md)
 
-👉 Architecture Overview
+👉 [Architecture Overview](docs/ARCHITECTURE.md)
 
-🧪 Diagnosis Rules
+🧪 [Diagnosis Rules](docs/DIAGNOSIS.md)
 
 ---
 ## 🧑‍💻 Contributing
