@@ -1,5 +1,19 @@
-# ❤️ SysBeat
-<p align="center"> <img src="https://img.shields.io/badge/status-active-success.svg" /> <img src="https://img.shields.io/badge/license-MIT-blue.svg" /> <img src="https://img.shields.io/badge/TUI-terminal-orange.svg" /> <img src="https://img.shields.io/github/stars/yunnij/sysbeat?style=social" /> </p> <p align="center"> <strong>Feel the heartbeat of your system.</strong> </p>
+# ⚡ SysBeat
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success.svg" />
+  <img src="https://img.shields.io/github/v/release/yunnij/sysbeat" />
+  <img src="https://img.shields.io/github/license/yunnij/sysbeat" />
+  <img src="https://img.shields.io/github/go-mod/go-version/yunnij/sysbeat" />
+  <img src="https://img.shields.io/badge/TUI-terminal-orange.svg" />
+  <img src="https://img.shields.io/github/stars/yunnij/sysbeat?style=social" />
+</p>
+
+<p align="center">
+  <strong>Real-time system monitoring with vital-style visualization.</strong>
+</p>
+
+
 
 **SysBeat**는 CPU, 메모리, 디스크, 네트워크 등 시스템 지표를
 사람의 생체 신호에 비유해 실시간으로 시각화하는
