@@ -18,6 +18,7 @@
 
 ---
 ## 🧠 Core Mapping
+
 | System Metric      | Human Metaphor       |
 | ------------------ | -------------------- |
 | CPU Usage          | ❤️ Heart Rate        |
@@ -26,6 +27,7 @@
 | Network Traffic    | 🌬️ Respiration      |
 | Disk I/O / IO Wait | 🫁 Oxygen Supply     |
 | CPU Temperature    | 🌡️ Body Temperature |
+
 
 실제 수치도 항상 함께 표시됩니다.
 

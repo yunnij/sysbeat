@@ -59,7 +59,7 @@ SysBeat는 시스템 지표를 인간의 생체 신호에 비유합니다.
 ---
 
 # 4️⃣ 향후 출력 예시
-```
+```text
 Overall Status: 🔴 CRITICAL
 
 진단 결과:

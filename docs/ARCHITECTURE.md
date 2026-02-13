@@ -5,12 +5,12 @@ SysBeat는 Go 기반 CLI 애플리케이션이며,
 
 전체 구조는 다음과 같습니다:
 
-```mermaid
+```text
 cmd/sysbeat → internal/app → internal/tui → internal/collect
 ```
 
 ## 📁 Project Structure
-```
+```text
 cmd/
 └─ sysbeat/
 └─ main.go
@@ -96,7 +96,7 @@ DiskUsedPercent float64
 - Bubble Tea (MVU 구조)
 
 SysBeat의 TUI는 다음 흐름을 따릅니다:
-```
+```text
 Init → Update → View
 ```
 
@@ -113,7 +113,7 @@ Init → Update → View
 - 현재 상태를 문자열 형태로 렌더링
 
 예시 출력:
-```
+```text
 SysBeat
 
 CPU:  23.1%
@@ -148,7 +148,7 @@ View 렌더링
 ## 7️⃣ 향후 확장 계획
 
 예정 구조:
-```
+```text
 internal/
 ├─ diagnosis/
 ├─ export/

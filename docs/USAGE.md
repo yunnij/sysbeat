@@ -11,11 +11,13 @@
 ./sysbeat run --interval 1
 ./sysbeat run --no-animation
 ```
+
 | Option           | Description   |
 | ---------------- | ------------- |
 | `--interval`     | 데이터 수집 주기 (초) |
 | `--no-animation` | 파형 애니메이션 비활성화 |
 | `--minimal`      | 수치만 출력        |
+
 
 ---
 ## 2. Snapshot Mode
